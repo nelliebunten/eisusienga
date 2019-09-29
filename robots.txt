@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eibaighai.bonestackers.com/sitemap.xml
